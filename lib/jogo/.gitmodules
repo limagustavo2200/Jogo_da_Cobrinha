@@ -1,0 +1,18 @@
+[submodule "lib/glfw"]
+	path = lib/glfw
+	url = https://github.com/syndelis/glfw
+[submodule "lib/stb"]
+	path = lib/stb
+	url = https://github.com/syndelis/stb
+[submodule "lib/miniaudio"]
+	path = lib/miniaudio
+	url = https://github.com/syndelis/miniaudio
+[submodule "docs/doxygen-awesome-css"]
+	path = docs/doxygen-awesome-css
+	url = https://github.com/syndelis/doxygen-awesome-css/
+[submodule "utils"]
+	path = utils
+	url = https://github.com/syndelis/windows-makefile-utils
+[submodule "lib/glew"]
+	path = lib/glew
+	url = https://github.com/syndelis/glew

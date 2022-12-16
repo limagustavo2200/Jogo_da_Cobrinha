@@ -1,0 +1,14 @@
+# Binaries
+/obj/
+*.o
+*.a
+
+# Documentation
+/docs/man
+/docs/html
+
+# VS Code files
+/.vscode/
+!/.vscode/launch.json
+!/.vscode/tasks.json
+!/.vscode/c_cpp_properties.json
